@@ -1,0 +1,3 @@
+Hello, 
+SKCET EEE students
+This message to share the git commands
